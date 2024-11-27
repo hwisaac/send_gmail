@@ -19,7 +19,7 @@
 
 ## 사용
 
-.env
+.env 파일에 다음 내용 저장
 ```
 GMAIL_APP_PASSWORD=your_gmail_app_password
 ```
